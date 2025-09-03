@@ -1,0 +1,6 @@
+torch>=2.8.0
+scikit-learn
+numpy
+matplotlib
+tqdm
+triton==3.2.0
